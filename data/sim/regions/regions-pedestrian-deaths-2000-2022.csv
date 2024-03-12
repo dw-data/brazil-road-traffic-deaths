@@ -1,0 +1,20 @@
+ Mortalidade - Brasil
+Óbitos p/Ocorrênc por Região e Ano do Óbito
+Categoria CID-10: V01   Pedestre traum colis veic a pedal, V02   Pedestre traum colis veic motor 2 3 rodas, V03   Pedestre traum colis automov pickup caminhon, V04   Pedestre traum colis veic transp pesado onib, V05   Pedestre traum colis trem veic ferroviario, V06   Pedestre traum colis outr veic nao-motoriz, V09   Pedestre traum outr acid transp e NE
+Período:2000-2022
+"Região";"2000";"2001";"2002";"2003";"2004";"2005";"2006";"2007";"2008";"2009";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"2018";"2019";"2020";"2021";"2022";"Total"
+"1 Região Norte";652;702;797;808;719;774;838;700;736;643;901;918;898;816;680;681;508;602;506;416;397;386;456;15534
+"2 Região Nordeste";2145;2254;2510;2302;2364;2547;2399;2380;2052;2073;2498;2127;2118;2033;1904;1604;1429;1524;1380;1395;1233;1169;1153;44593
+"3 Região Sudeste";3690;4426;4179;4451;4553;4487;4644;4292;4288;3917;4252;4103;3803;3437;3661;3057;2627;2718;2578;2301;2139;2378;2258;82239
+"4 Região Sul";1515;1592;1662;1645;1713;1704;1558;1572;1624;1481;1508;1400;1344;1243;1166;1094;1061;1093;1011;1120;900;959;1004;30969
+"5 Região Centro-Oeste";694;746;799;785;817;808;708;713;774;685;785;696;656;691;671;543;533;532;543;483;451;457;516;15086
+"Total";8696;9720;9947;9991;10166;10320;10147;9657;9474;8799;9944;9244;8819;8220;8082;6979;6158;6469;6018;5715;5120;5349;5387;188421
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
+ No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
+ No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.
+ 

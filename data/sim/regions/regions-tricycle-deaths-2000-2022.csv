@@ -1,0 +1,20 @@
+ Mortalidade - Brasil
+Óbitos p/Ocorrênc por Região e Ano do Óbito
+Categoria CID-10: V30   Ocup tricicl mot traum colis pedestre animal, V31   Ocup tricicl motoriz traum colis veic pedal, V32   Ocup tric mot traum col out veic mot 2 3 rod, V33   Ocup tric mot traum col auto pickup caminhon, V34   Ocup tric mot traum col veic transp pes onib, V35   Ocup tricic mot traum colis trem veic ferrov, V36   Ocup tric mot traum colis outr veic n-motor, V37   Ocup tricic mot traum colis obj fixo parado, V38   Ocup tricic motor traum acid transp s/colis, V39   Ocup tricicl mot traum outr acid transp e NE
+Período:2000-2022
+"Região";"2000";"2001";"2002";"2003";"2004";"2005";"2006";"2007";"2008";"2009";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"2018";"2019";"2020";"2021";"2022";"Total"
+"1 Região Norte";-;-;5;4;-;1;-;6;3;2;7;5;6;4;3;11;8;8;6;3;12;2;3;99
+"2 Região Nordeste";13;12;13;6;14;8;12;8;9;9;18;9;14;21;13;12;10;10;8;12;7;13;9;260
+"3 Região Sudeste";11;14;8;5;6;6;15;15;15;18;21;21;14;20;17;16;19;19;21;11;131;15;6;444
+"4 Região Sul";3;3;2;6;3;6;5;5;7;5;16;12;26;8;12;14;5;4;5;4;4;5;9;169
+"5 Região Centro-Oeste";-;1;1;-;2;-;4;6;7;4;7;5;4;4;3;7;7;5;4;3;4;1;5;84
+"Total";27;30;29;21;25;21;36;40;41;38;69;52;64;57;48;60;49;46;44;33;158;36;32;1056
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
+ No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
+ No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.
+ 

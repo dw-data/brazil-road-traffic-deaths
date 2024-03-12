@@ -1,0 +1,211 @@
+Location,LocationId,Year,TotalDeaths,Population,DeathRatio100k,IsLatestYear,IncomeGroup,WorldBankRegion,Value,DeathRatio100kLowerBound,DeathRatio100kHigheBound,Period,ranking,Economy,y_order,y_position
+Rondônia,11,2022,475.0,1831889.0,25.929518655333375,True,,Brazilian states,,,,,,,0,0.4460429335949726
+Acre,12,2022,103.0,936375.0,10.999866506474437,True,,Brazilian states,,,,,,,0,0.6860348793124191
+Amazonas,13,2022,438.0,4349817.0,10.069389126025301,True,,Brazilian states,,,,,,,0,0.245240549050687
+Roraima,14,2022,157.0,632173.0,24.834973970732694,True,,Brazilian states,,,,,,,0,0.31343241639552744
+Pará,15,2022,1609.0,9014892.0,17.84824488191317,True,,Brazilian states,,,,,,,0,0.7170418039289859
+Amapá,16,2022,105.0,904840.0,11.604261526899784,True,,Brazilian states,,,,,,,0,0.3220908921034351
+Tocantins,17,2022,549.0,1639014.0,33.49574805340284,True,,Brazilian states,,,,,,,0,0.7521493870871494
+Maranhão,21,2022,1339.0,7329794.0,18.267907665617887,True,,Brazilian states,,,,,,,0,0.45800233075085545
+Piauí,22,2022,918.0,3347337.0,27.42478573265853,True,,Brazilian states,,,,,,,0,0.5576067809332744
+Ceará,23,2022,1402.0,9416673.0,14.888485561726524,True,,Brazilian states,,,,,,,0,0.7113387641893705
+Rio Grande do Norte,24,2022,392.0,3621266.0,10.824943541844206,True,,Brazilian states,,,,,,,0,0.21997287617690964
+Paraíba,25,2022,847.0,4103582.0,20.640503832992735,True,,Brazilian states,,,,,,,0,0.3935083576575181
+Pernambuco,26,2022,1469.0,9814261.0,14.96801440271458,True,,Brazilian states,,,,,,,0,0.30524683187461293
+Alagoas,27,2022,577.0,3425503.0,16.844241561020382,True,,Brazilian states,,,,,,,0,0.2975615373378229
+Sergipe,28,2022,406.0,2380068.0,17.058336148378956,True,,Brazilian states,,,,,,,0,0.41646337315606774
+Bahia,29,2022,2474.0,15130910.0,16.35063588376377,True,,Brazilian states,,,,,,,0,0.40501578134665317
+Minas Gerais,31,2022,3170.0,21628471.0,14.656607025064323,True,,Brazilian states,,,,,,,0,0.7289790718859159
+Espírito Santo,32,2022,822.0,4143470.0,19.83844458871429,True,,Brazilian states,,,,,,,0,0.6118880275520351
+Rio de Janeiro,33,2022,1931.0,17717135.0,10.899053374035926,True,,Brazilian states,,,,,,,0,0.5903981350878592
+São Paulo,35,2022,4847.0,47270936.0,10.253657765524254,True,,Brazilian states,,,,,,,0,0.22171740570543363
+Paraná,41,2022,2718.0,11686444.0,23.25771637634168,True,,Brazilian states,,,,,,,0,0.4900002856056082
+Santa Catarina,42,2022,1421.0,7421383.0,19.147374552694558,True,,Brazilian states,,,,,,,0,0.5384178793150978
+Rio Grande do Sul,43,2022,1759.0,11525968.0,15.261191077400179,True,,Brazilian states,,,,,,,0,0.3572395299706549
+Mato Grosso do Sul,50,2022,671.0,2886030.0,23.24993156689293,True,,Brazilian states,,,,,,,0,0.21531976482414886
+Mato Grosso,51,2022,1220.0,3641235.0,33.50511570936784,True,,Brazilian states,,,,,,,0,0.610823183542857
+Goiás,52,2022,1729.0,7306624.0,23.66345934866773,True,,Brazilian states,,,,,,,0,0.20692642688285728
+Distrito Federal,53,2022,346.0,3177594.0,10.888741607644024,True,,Brazilian states,,,,,,,0,0.6571499813331358
+Syrian Arab Republic,SYR,,,,14.94,True,Low income,Countries,14.94 [12.07 – 17.72],12.07,17.72,2019.0,95.0,Syrian Arab Republic,2,2.640175312607467
+Afghanistan,AFG,,,,15.86,True,Low income,Countries,15.86 [13.74 – 18],13.74,18.0,2019.0,87.0,Afghanistan,2,2.58415496107794
+Mali,MLI,,,,22.71,True,Low income,Countries,22.71 [18.72 – 26.9],18.72,26.9,2019.0,55.0,Mali,2,2.364925730098251
+Democratic People's Republic of Korea,PRK,,,,24.19,True,Low income,Countries,24.19 [20.85 – 27.55],20.85,27.55,2019.0,49.0,"Korea, Dem. People's Rep.",2,2.2353022694622413
+Niger,NER,,,,25.51,True,Low income,Countries,25.51 [20.16 – 30.91],20.16,30.91,2019.0,48.0,Niger,2,2.5998552506965416
+Sudan,SDN,,,,26.76,True,Low income,Countries,26.76 [22.91 – 30.69],22.91,30.69,2019.0,42.0,Sudan,2,2.610752689330761
+Somalia,SOM,,,,27.4,True,Low income,Countries,27.4 [21.26 – 33.54],21.26,33.54,2019.0,37.0,Somalia,2,2.3218021101988007
+Ethiopia,ETH,,,,28.16,True,Low income,Countries,28.16 [22.12 – 34.14],22.12,34.14,2019.0,35.0,Ethiopia,2,2.3653906825586066
+Togo,TGO,,,,28.65,True,Low income,Countries,28.65 [23.33 – 34.04],23.33,34.04,2019.0,33.0,Togo,2,2.49933146084585
+Madagascar,MDG,,,,29.22,True,Low income,Countries,29.22 [24.29 – 34.27],24.29,34.27,2019.0,32.0,Madagascar,2,2.7543028521327924
+Yemen,YEM,,,,29.36,True,Low income,Countries,29.36 [24.26 – 34.45],24.26,34.45,2019.0,31.0,"Yemen, Rep.",2,2.661973592437408
+Uganda,UGA,,,,29.39,True,Low income,Countries,29.39 [23.17 – 35.78],23.17,35.78,2019.0,30.0,Uganda,2,2.4493726841613364
+Rwanda,RWA,,,,29.45,True,Low income,Countries,29.45 [22.4 – 36.55],22.4,36.55,2019.0,29.0,Rwanda,2,2.219132994202106
+Gambia,GMB,,,,29.62,True,Low income,Countries,29.62 [23.95 – 35.41],23.95,35.41,2019.0,28.0,"Gambia, The",2,2.6302840894532187
+Mozambique,MOZ,,,,30.02,True,Low income,Countries,30.02 [24.79 – 35.73],24.79,35.73,2019.0,24.0,Mozambique,2,2.3793559300930647
+Burkina Faso,BFA,,,,31.02,True,Low income,Countries,31.02 [24.34 – 37.8],24.34,37.8,2019.0,21.0,Burkina Faso,2,2.623479945230395
+Guinea-Bissau,GNB,,,,32.23,True,Low income,Countries,32.23 [26.92 – 37.6],26.92,37.6,2019.0,17.0,Guinea-Bissau,2,2.330349366493894
+Chad,TCD,,,,32.43,True,Low income,Countries,32.43 [24.65 – 40.29],24.65,40.29,2019.0,16.0,Chad,2,2.5914739340702457
+Sierra Leone,SLE,,,,33.04,True,Low income,Countries,33.04 [26.53 – 39.56],26.53,39.56,2019.0,14.0,Sierra Leone,2,2.664211377814708
+Malawi,MWI,,,,33.4,True,Low income,Countries,33.4 [27.49 – 39.34],27.49,39.34,2019.0,13.0,Malawi,2,2.2593497219600627
+Democratic Republic of the Congo,COD,,,,34.86,True,Low income,Countries,34.86 [27.82 – 42.13],27.82,42.13,2019.0,10.0,"Congo, Dem. Rep.",2,2.612583429766174
+Burundi,BDI,,,,35.46,True,Low income,Countries,35.46 [28.43 – 42.76],28.43,42.76,2019.0,9.0,Burundi,2,2.6574188065491833
+South Sudan,SSD,,,,36.73,True,Low income,Countries,36.73 [29.58 – 43.88],29.58,43.88,2019.0,7.0,South Sudan,2,2.5135591869020666
+Central African Republic,CAF,,,,37.72,True,Low income,Countries,37.72 [29.82 – 45.95],29.82,45.95,2019.0,6.0,Central African Republic,2,2.632563430389374
+Eritrea,ERI,,,,37.92,True,Low income,Countries,37.92 [31.06 – 44.99],31.06,44.99,2019.0,5.0,Eritrea,2,2.332050274262976
+Liberia,LBR,,,,38.9,True,Low income,Countries,38.9 [30.52 – 47.67],30.52,47.67,2019.0,4.0,Liberia,2,2.767132868705702
+Micronesia (Federated States of),FSM,,,,0.16,True,Lower middle income,Countries,0.16 [0.072 – 0.26],0.072,0.26,2019.0,182.0,"Micronesia, Fed. Sts.",2,2.4861298230922695
+Kiribati,KIR,,,,1.92,True,Lower middle income,Countries,1.92 [1.1 – 2.98],1.1,2.98,2019.0,180.0,Kiribati,2,2.579614560610709
+Egypt,EGY,,,,10.1,True,Lower middle income,Countries,10.1 [5.51 – 15.57],5.51,15.57,2019.0,125.0,"Egypt, Arab Rep.",2,2.5267557703826258
+Ukraine,UKR,,,,10.2,True,Lower middle income,Countries,10.2 [7.39 – 13.72],7.39,13.72,2019.0,124.0,Ukraine,2,2.761104784457176
+Uzbekistan,UZB,,,,11.68,True,Lower middle income,Countries,11.68 [8.66 – 15.26],8.66,15.26,2019.0,119.0,Uzbekistan,2,2.426646067421913
+Timor-Leste,TLS,,,,11.9,True,Lower middle income,Countries,11.9 [10.37 – 13.46],10.37,13.46,2019.0,117.0,Timor-Leste,2,2.469322324084696
+Philippines,PHL,,,,12.04,True,Lower middle income,Countries,12.04 [8.57 – 15.67],8.57,15.67,2019.0,115.0,Philippines,2,2.435003042133073
+Papua New Guinea,PNG,,,,12.59,True,Lower middle income,Countries,12.59 [10.78 – 14.31],10.78,14.31,2019.0,112.0,Papua New Guinea,2,2.424538444865725
+Kyrgyzstan,KGZ,,,,12.66,True,Lower middle income,Countries,12.66 [9.88 – 15.95],9.88,15.95,2019.0,111.0,Kyrgyz Republic,2,2.7271840325982133
+Pakistan,PAK,,,,13.01,True,Lower middle income,Countries,13.01 [10.91 – 15.02],10.91,15.02,2019.0,107.0,Pakistan,2,2.2646322695029455
+Samoa,WSM,,,,13.03,True,Lower middle income,Countries,13.03 [12.47 – 20.55],12.47,20.55,2019.0,106.0,Samoa,2,2.3865421208693007
+Vanuatu,VUT,,,,14.86,True,Lower middle income,Countries,14.86 [13.37 – 16.58],13.37,16.58,2019.0,97.0,Vanuatu,2,2.3164871550835238
+Bangladesh,BGD,,,,15.35,True,Lower middle income,Countries,15.35 [12.76 – 17.9],12.76,17.9,2019.0,92.0,Bangladesh,2,2.4139750535276487
+India,IND,,,,15.56,True,Lower middle income,Countries,15.56 [10.69 – 19.53],10.69,19.53,2019.0,89.0,India,2,2.2691062371979953
+Tajikistan,TJK,,,,15.67,True,Lower middle income,Countries,15.67 [14.51 – 16.81],14.51,16.81,2019.0,88.0,Tajikistan,2,2.4775743017440583
+Honduras,HND,,,,16.13,True,Lower middle income,Countries,16.13 [14.6 – 17.62],14.6,17.62,2019.0,85.0,Honduras,2,2.399117301673214
+Bhutan,BTN,,,,16.18,True,Lower middle income,Countries,16.18 [14 – 18.38],14.0,18.38,2019.0,84.0,Bhutan,2,2.3065443342510052
+Nepal,NPL,,,,16.27,True,Lower middle income,Countries,16.27 [13.76 – 18.76],13.76,18.76,2019.0,83.0,Nepal,2,2.3174711889006123
+Lebanon,LBN,,,,16.44,True,Lower middle income,Countries,16.44 [11.16 – 24.22],11.16,24.22,2019.0,82.0,Lebanon,2,2.6744525452518824
+Tunisia,TUN,,,,16.49,True,Lower middle income,Countries,16.49 [14.81 – 18.22],14.81,18.22,2019.0,81.0,Tunisia,2,2.4062596496993383
+Solomon Islands,SLB,,,,16.52,True,Lower middle income,Countries,16.52 [15.05 – 18.14],15.05,18.14,2019.0,80.0,Solomon Islands,2,2.2962701115893207
+Nicaragua,NIC,,,,16.94,True,Lower middle income,Countries,16.94 [15.05 – 18.83],15.05,18.83,2019.0,79.0,Nicaragua,2,2.3502183548666933
+Morocco,MAR,,,,16.96,True,Lower middle income,Countries,16.96 [15.02 – 18.92],15.02,18.92,2019.0,78.0,Morocco,2,2.3619954669854826
+Jordan,JOR,,,,17.0,True,Lower middle income,Countries,17 [14.26 – 19.87],14.26,19.87,2019.0,77.0,Jordan,2,2.282264534705536
+Lao People's Democratic Republic,LAO,,,,17.87,True,Lower middle income,Countries,17.87 [15.14 – 20.66],15.14,20.66,2019.0,75.0,Lao PDR,2,2.615158178755312
+Haiti,HTI,,,,18.77,True,Lower middle income,Countries,18.77 [15.17 – 22.36],15.17,22.36,2019.0,74.0,Haiti,2,2.2227195329180565
+Cambodia,KHM,,,,19.55,True,Lower middle income,Countries,19.55 [16.74 – 22.31],16.74,22.31,2019.0,73.0,Cambodia,2,2.743683614850336
+Sri Lanka,LKA,,,,19.69,True,Lower middle income,Countries,19.69 [17.76 – 21.69],17.76,21.69,2019.0,72.0,Sri Lanka,2,2.4103057021822045
+Myanmar,MMR,,,,20.36,True,Lower middle income,Countries,20.36 [17.07 – 23.64],17.07,23.64,2019.0,69.0,Myanmar,2,2.219106097205099
+Zambia,ZMB,,,,20.46,True,Lower middle income,Countries,20.46 [17.01 – 23.89],17.01,23.89,2019.0,68.0,Zambia,2,2.689163961775218
+Nigeria,NGA,,,,20.75,True,Lower middle income,Countries,20.75 [16.68 – 24.76],16.68,24.76,2019.0,67.0,Nigeria,2,2.261428484704799
+Algeria,DZA,,,,20.9,True,Lower middle income,Countries,20.9 [18.58 – 23.2],18.58,23.2,2019.0,65.0,Algeria,2,2.755155539179328
+Mongolia,MNG,,,,21.04,True,Lower middle income,Countries,21.04 [19.87 – 22.16],19.87,22.16,2019.0,64.0,Mongolia,2,2.667019350536312
+Bolivia (Plurinational State of),BOL,,,,21.11,True,Lower middle income,Countries,21.11 [19.12 – 23.09],19.12,23.09,2019.0,63.0,Bolivia,2,2.2631959819561587
+Iran (Islamic Republic of),IRN,,,,21.47,True,Lower middle income,Countries,21.47 [17.83 – 25.69],17.83,25.69,2019.0,61.0,"Iran, Islamic Rep.",2,2.2650429611825866
+Djibouti,DJI,,,,23.5,True,Lower middle income,Countries,23.5 [20.31 – 26.66],20.31,26.66,2019.0,53.0,Djibouti,2,2.2978974545771176
+Senegal,SEN,,,,23.51,True,Lower middle income,Countries,23.51 [20.04 – 27.18],20.04,27.18,2019.0,52.0,Senegal,2,2.6231459726169453
+Côte d’Ivoire,CIV,,,,24.12,True,Lower middle income,Countries,24.12 [20.03 – 28.25],20.03,28.25,2019.0,50.0,Côte d’Ivoire,2,2.7058546305284144
+Mauritania,MRT,,,,25.6,True,Lower middle income,Countries,25.6 [21.49 – 29.64],21.49,29.64,2019.0,47.0,Mauritania,2,2.6745519348023907
+Ghana,GHA,,,,25.67,True,Lower middle income,Countries,25.67 [22.18 – 29.3],22.18,29.3,2019.0,46.0,Ghana,2,2.7972826193344695
+Angola,AGO,,,,26.13,True,Lower middle income,Countries,26.13 [19.85 – 32.4],19.85,32.4,2019.0,45.0,Angola,2,2.595781173939366
+Comoros,COM,,,,26.57,True,Lower middle income,Countries,26.57 [22.38 – 30.82],22.38,30.82,2019.0,43.0,Comoros,2,2.429613948224858
+Cabo Verde,CPV,,,,26.78,True,Lower middle income,Countries,26.78 [23.33 – 30.09],23.33,30.09,2019.0,41.0,Cabo Verde,2,2.370968888469078
+Benin,BEN,,,,26.8,True,Lower middle income,Countries,26.8 [22.15 – 31.46],22.15,31.46,2019.0,40.0,Benin,2,2.634600588115826
+Sao Tome and Principe,STP,,,,27.9,True,Lower middle income,Countries,27.9 [22.1 – 35.51],22.1,35.51,2019.0,36.0,São Tomé and Príncipe,2,2.6040549118293757
+Kenya,KEN,,,,28.31,True,Lower middle income,Countries,28.31 [24.29 – 32.59],24.29,32.59,2019.0,34.0,Kenya,2,2.3264364352820173
+Guinea,GIN,,,,29.66,True,Lower middle income,Countries,29.66 [24.81 – 34.62],24.81,34.62,2019.0,27.0,Guinea,2,2.5659564473729772
+Congo,COG,,,,29.7,True,Lower middle income,Countries,29.7 [23.48 – 36.08],23.48,36.08,2019.0,26.0,"Congo, Rep.",2,2.233482656724851
+Cameroon,CMR,,,,30.18,True,Lower middle income,Countries,30.18 [24.03 – 36.55],24.03,36.55,2019.0,23.0,Cameroon,2,2.2017472204325212
+Viet Nam,VNM,,,,30.56,True,Lower middle income,Countries,30.56 [27.21 – 33.86],27.21,33.86,2019.0,22.0,Vietnam,2,2.5590331995166724
+United Republic of Tanzania,TZA,,,,31.12,True,Lower middle income,Countries,31.12 [25.04 – 37.46],25.04,37.46,2019.0,20.0,Tanzania,2,2.454650731185955
+Lesotho,LSO,,,,31.92,True,Lower middle income,Countries,31.92 [27.32 – 36.78],27.32,36.78,2019.0,19.0,Lesotho,2,2.729567719617336
+Eswatini,SWZ,,,,33.47,True,Lower middle income,Countries,33.47 [27.53 – 39.56],27.53,39.56,2019.0,12.0,Eswatini,2,2.3126361639713564
+Zimbabwe,ZWE,,,,41.22,True,Lower middle income,Countries,41.22 [33.45 – 49.08],33.45,49.08,2019.0,2.0,Zimbabwe,2,2.73050603356514
+Maldives,MDV,,,,1.63,True,Upper middle income,Countries,1.63 [1.05 – 2.39],1.05,2.39,2019.0,181.0,Maldives,2,2.378498542111965
+Indonesia,IDN,,,,11.33,True,Upper middle income,Countries,11.33 [9.71 – 12.92],9.71,12.92,2019.0,120.0,Indonesia,2,2.3817765238942936
+Albania,ALB,,,,11.7,True,Upper middle income,Countries,11.7 [10.8 – 12.56],10.8,12.56,2019.0,118.0,Albania,2,2.5543366229792817
+Russian Federation,RUS,,,,12.0,True,Upper middle income,Countries,12 [9.71 – 14.95],9.71,14.95,2019.0,116.0,Russian Federation,2,2.2488998041710895
+Mauritius,MUS,,,,12.23,True,Upper middle income,Countries,12.23 [8.91 – 16.39],8.91,16.39,2019.0,114.0,Mauritius,2,2.328429092813643
+Georgia,GEO,,,,12.41,True,Upper middle income,Countries,12.41 [9.12 – 16.37],9.12,16.37,2019.0,113.0,Georgia,2,2.248088285361613
+Kazakhstan,KAZ,,,,12.68,True,Upper middle income,Countries,12.68 [9.52 – 16.22],9.52,16.22,2019.0,109.0,Kazakhstan,2,2.630514509132528
+Mexico,MEX,,,,12.78,True,Upper middle income,Countries,12.78 [10.19 – 15.72],10.19,15.72,2019.0,108.0,Mexico,2,2.628645268510154
+Turkmenistan,TKM,,,,13.47,True,Upper middle income,Countries,13.47 [9.39 – 19.32],9.39,19.32,2019.0,105.0,Turkmenistan,2,2.556538750255688
+Bosnia and Herzegovina,BIH,,,,13.51,True,Upper middle income,Countries,13.51 [12.41 – 14.53],12.41,14.53,2019.0,103.0,Bosnia and Herzegovina,2,2.4525193855371814
+Fiji,FJI,,,,13.51,True,Upper middle income,Countries,13.51 [8.32 – 20.56],8.32,20.56,2019.0,103.0,Fiji,2,2.6757341023308396
+Peru,PER,,,,13.58,True,Upper middle income,Countries,13.58 [12.2 – 14.89],12.2,14.89,2019.0,102.0,Peru,2,2.3312518430159246
+Argentina,ARG,,,,14.06,True,Upper middle income,Countries,14.06 [11.36 – 17.04],11.36,17.04,2019.0,100.0,Argentina,2,2.308101116961353
+Costa Rica,CRI,,,,14.78,True,Upper middle income,Countries,14.78 [10.62 – 19.93],10.62,19.93,2019.0,98.0,Costa Rica,2,2.7247555039862026
+Jamaica,JAM,,,,15.06,True,Upper middle income,Countries,15.06 [10.28 – 21.13],10.28,21.13,2019.0,94.0,Jamaica,2,2.7521220049015795
+Suriname,SUR,,,,15.32,True,Upper middle income,Countries,15.32 [10.19 – 21.88],10.19,21.88,2019.0,93.0,Suriname,2,2.5828090344989376
+Colombia,COL,,,,15.42,True,Upper middle income,Countries,15.42 [10.55 – 21.32],10.55,21.32,2019.0,91.0,Colombia,2,2.6945856850451584
+Brazil,BRA,,,,16.05,True,Upper middle income,Countries,16.05 [14.66 – 17.35],14.66,17.35,2019.0,86.0,Brazil,2,2.6794677242018965
+China,CHN,,,,17.36,True,Upper middle income,Countries,17.36 [13.21 – 21.6],13.21,21.6,2019.0,76.0,China,2,2.461897509584373
+Armenia,ARM,,,,19.95,True,Upper middle income,Countries,19.95 [18.97 – 20.99],18.97,20.99,2019.0,71.0,Armenia,2,2.4017334709319176
+Ecuador,ECU,,,,20.09,True,Upper middle income,Countries,20.09 [14.01 – 27.21],14.01,27.21,2019.0,70.0,Ecuador,2,2.5332772437652205
+El Salvador,SLV,,,,20.87,True,Upper middle income,Countries,20.87 [12.96 – 31.71],12.96,31.71,2019.0,66.0,El Salvador,2,2.7531022421773703
+Libya,LBY,,,,21.3,True,Upper middle income,Countries,21.3 [9.86 – 46],9.86,46.0,2019.0,62.0,Libya,2,2.369705396533743
+Paraguay,PRY,,,,22.03,True,Upper middle income,Countries,22.03 [13.83 – 31.31],13.83,31.31,2019.0,60.0,Paraguay,2,2.563089789167526
+South Africa,ZAF,,,,22.22,True,Upper middle income,Countries,22.22 [15.25 – 28.81],15.25,28.81,2019.0,59.0,South Africa,2,2.6239107043556817
+Malaysia,MYS,,,,22.48,True,Upper middle income,Countries,22.48 [19.87 – 25.09],19.87,25.09,2019.0,57.0,Malaysia,2,2.2501255010399532
+Belize,BLZ,,,,22.56,True,Upper middle income,Countries,22.56 [16.64 – 29.3],16.64,29.3,2019.0,56.0,Belize,2,2.5943205530537767
+Guatemala,GTM,,,,22.9,True,Upper middle income,Countries,22.9 [16.15 – 31.38],16.15,31.38,2019.0,54.0,Guatemala,2,2.57286653170416
+Gabon,GAB,,,,23.86,True,Upper middle income,Countries,23.86 [19.55 – 28.14],19.55,28.14,2019.0,51.0,Gabon,2,2.644245060396863
+Botswana,BWA,,,,26.41,True,Upper middle income,Countries,26.41 [23.04 – 29.82],23.04,29.82,2019.0,44.0,Botswana,2,2.2114430134382586
+Equatorial Guinea,GNQ,,,,27.17,True,Upper middle income,Countries,27.17 [20.2 – 34.11],20.2,34.11,2019.0,39.0,Equatorial Guinea,2,2.7389026181930474
+Iraq,IRQ,,,,27.29,True,Upper middle income,Countries,27.29 [23.34 – 31.32],23.34,31.32,2019.0,38.0,Iraq,2,2.5870931446692405
+Saint Lucia,LCA,,,,29.84,True,Upper middle income,Countries,29.84 [21.43 – 40.32],21.43,40.32,2019.0,25.0,St. Lucia,2,2.638903618982386
+Thailand,THA,,,,32.21,True,Upper middle income,Countries,32.21 [29.12 – 35.18],29.12,35.18,2019.0,18.0,Thailand,2,2.3414977031615325
+Tonga,TON,,,,32.95,True,Upper middle income,Countries,32.95 [19.68 – 51.03],19.68,51.03,2019.0,15.0,Tonga,2,2.6815189840635374
+Namibia,NAM,,,,34.81,True,Upper middle income,Countries,34.81 [28.94 – 40.64],28.94,40.64,2019.0,11.0,Namibia,2,2.304563464841582
+The former Yugoslav Republic of Macedonia,MKD,,,,5.15,True,Upper middle income,Countries,5.15 [3.43 – 7.33],3.43,7.33,2019.0,158.0,North Macedonia,2,2.797642141767782
+Türkiye,TUR,,,,6.68,True,Upper middle income,Countries,6.68 [5.98 – 7.35],5.98,7.35,2019.0,150.0,Türkiye,2,2.6670281139010372
+Azerbaijan,AZE,,,,6.73,True,Upper middle income,Countries,6.73 [4.14 – 10.61],4.14,10.61,2019.0,149.0,Azerbaijan,2,2.609649340268141
+Dominican Republic,DOM,,,,64.6,True,Upper middle income,Countries,64.6 [39.94 – 97.54],39.94,97.54,2019.0,1.0,Dominican Republic,2,2.789310367409865
+Republic of Moldova,MDA,,,,7.25,True,Upper middle income,Countries,7.25 [5.51 – 9.35],5.51,9.35,2019.0,148.0,Moldova,2,2.484650146653231
+Saint Vincent and the Grenadines,VCT,,,,7.41,True,Upper middle income,Countries,7.41 [5.24 – 10.04],5.24,10.04,2019.0,146.0,St. Vincent and the Grenadines,2,2.7566203386615262
+Serbia,SRB,,,,7.47,True,Upper middle income,Countries,7.47 [5.01 – 10.66],5.01,10.66,2019.0,144.0,Serbia,2,2.7764765101341857
+Montenegro,MNE,,,,7.64,True,Upper middle income,Countries,7.64 [5.03 – 11.05],5.03,11.05,2019.0,142.0,Montenegro,2,2.2066433620164925
+Belarus,BLR,,,,7.64,True,Upper middle income,Countries,7.64 [5.34 – 10.75],5.34,10.75,2019.0,142.0,Belarus,2,2.4702677423794612
+Grenada,GRD,,,,7.96,True,Upper middle income,Countries,7.96 [5.66 – 10.64],5.66,10.64,2019.0,138.0,Grenada,2,2.3312644337527044
+Cuba,CUB,,,,8.89,True,Upper middle income,Countries,8.89 [6.34 – 11.93],6.34,11.93,2019.0,131.0,Cuba,2,2.6305304548424595
+Bulgaria,BGR,,,,9.24,True,Upper middle income,Countries,9.24 [6.42 – 12.93],6.42,12.93,2019.0,129.0,Bulgaria,2,2.4320259023882733
+Antigua and Barbuda,ATG,,,,0.0,True,High income,Countries,0 [0 – 0],0.0,0.0,2019.0,183.0,Antigua and Barbuda,2,2.2513839151569166
+Romania,ROU,,,,10.29,True,High income,Countries,10.29 [7.65 – 13.56],7.65,13.56,2019.0,123.0,Romania,2,2.492074678212477
+Oman,OMN,,,,10.59,True,High income,Countries,10.59 [9.35 – 11.87],9.35,11.87,2019.0,122.0,Oman,2,2.7893620903638805
+Seychelles,SYC,,,,11.26,True,High income,Countries,11.26 [7.83 – 15.3],7.83,15.3,2019.0,121.0,Seychelles,2,2.7529637184699007
+United States of America,USA,,,,12.67,True,High income,Countries,12.67 [11.59 – 13.5],11.59,13.5,2019.0,110.0,United States,2,2.5728899411137367
+Panama,PAN,,,,13.92,True,High income,Countries,13.92 [9.63 – 19.38],9.63,19.38,2019.0,101.0,Panama,2,2.2712829573108984
+Uruguay,URY,,,,14.78,True,High income,Countries,14.78 [11.38 – 18.28],11.38,18.28,2019.0,98.0,Uruguay,2,2.352222004912171
+Chile,CHL,,,,14.91,True,High income,Countries,14.91 [12.05 – 18.08],12.05,18.08,2019.0,96.0,Chile,2,2.7610598989584254
+Kuwait,KWT,,,,15.43,True,High income,Countries,15.43 [11.2 – 20.4],11.2,20.4,2019.0,90.0,Kuwait,2,2.3530733191571302
+Iceland,ISL,,,,2.05,True,High income,Countries,2.05 [1.43 – 2.77],1.43,2.77,2019.0,179.0,Iceland,2,2.7042541953565924
+Singapore,SGP,,,,2.09,True,High income,Countries,2.09 [1.58 – 2.7],1.58,2.7,2019.0,178.0,Singapore,2,2.7517748173106726
+Norway,NOR,,,,2.12,True,High income,Countries,2.12 [1.91 – 2.4],1.91,2.4,2019.0,177.0,Norway,2,2.5424805457647586
+Switzerland,CHE,,,,2.25,True,High income,Countries,2.25 [1.69 – 2.89],1.69,2.89,2019.0,176.0,Switzerland,2,2.660758170029181
+Guyana,GUY,,,,22.34,True,High income,Countries,22.34 [14.54 – 31.91],14.54,31.91,2019.0,58.0,Guyana,2,2.220600206326398
+Ireland,IRL,,,,3.13,True,High income,Countries,3.13 [2.33 – 4.05],2.33,4.05,2019.0,175.0,Ireland,2,2.6931827573617193
+Sweden,SWE,,,,3.14,True,High income,Countries,3.14 [2.52 – 3.87],2.52,3.87,2019.0,174.0,Sweden,2,2.77941530180654
+United Kingdom of Great Britain and Northern Ireland,GBR,,,,3.21,True,High income,Countries,3.21 [3 – 3.42],3.0,3.42,2019.0,173.0,United Kingdom,2,2.5004327095668404
+Japan,JPN,,,,3.6,True,High income,Countries,3.6 [3.17 – 3.95],3.17,3.95,2019.0,172.0,Japan,2,2.3398165800054804
+Denmark,DNK,,,,3.7,True,High income,Countries,3.7 [2.86 – 4.68],2.86,4.68,2019.0,171.0,Denmark,2,2.2006893944625707
+Germany,DEU,,,,3.78,True,High income,Countries,3.78 [3.02 – 4.65],3.02,4.65,2019.0,170.0,Germany,2,2.627961284099558
+Finland,FIN,,,,3.89,True,High income,Countries,3.89 [2.96 – 4.99],2.96,4.99,2019.0,169.0,Finland,2,2.2183289697470157
+Israel,ISR,,,,3.91,True,High income,Countries,3.91 [3.06 – 4.88],3.06,4.88,2019.0,167.0,Israel,2,2.617777044876785
+Spain,ESP,,,,3.91,True,High income,Countries,3.91 [3.09 – 4.81],3.09,4.81,2019.0,167.0,Spain,2,2.3976586760618925
+Netherlands,NLD,,,,3.98,True,High income,Countries,3.98 [3.13 – 4.97],3.13,4.97,2019.0,166.0,Netherlands,2,2.6311386727471913
+Saudi Arabia,SAU,,,,35.94,True,High income,Countries,35.94 [31.93 – 39.94],31.93,39.94,2019.0,8.0,Saudi Arabia,2,2.7179440422909007
+Luxembourg,LUX,,,,4.07,True,High income,Countries,4.07 [3.04 – 5.4],3.04,5.4,2019.0,165.0,Luxembourg,2,2.4240998402769325
+Malta,MLT,,,,4.11,True,High income,Countries,4.11 [2.87 – 5.55],2.87,5.55,2019.0,164.0,Malta,2,2.702820409760939
+Estonia,EST,,,,4.46,True,High income,Countries,4.46 [3.06 – 6.32],3.06,6.32,2019.0,163.0,Estonia,2,2.7863358314864044
+Austria,AUT,,,,4.87,True,High income,Countries,4.87 [3.83 – 6.06],3.83,6.06,2019.0,162.0,Austria,2,2.2021387755528083
+Australia,AUS,,,,4.94,True,High income,Countries,4.94 [3.9 – 6.09],3.9,6.09,2019.0,161.0,Australia,2,2.266249939347382
+Slovenia,SVN,,,,5.05,True,High income,Countries,5.05 [3.45 – 7.19],3.45,7.19,2019.0,160.0,Slovenia,2,2.293015320280467
+France,FRA,,,,5.13,True,High income,Countries,5.13 [4 – 6.38],4.0,6.38,2019.0,159.0,France,2,2.7682048966270365
+Bahrain,BHR,,,,5.18,True,High income,Countries,5.18 [3.49 – 7.37],3.49,7.37,2019.0,157.0,Bahrain,2,2.2327256637542
+Italy,ITA,,,,5.32,True,High income,Countries,5.32 [4.81 – 5.77],4.81,5.77,2019.0,156.0,Italy,2,2.57518008749339
+Canada,CAN,,,,5.34,True,High income,Countries,5.34 [4.1 – 6.79],4.1,6.79,2019.0,155.0,Canada,2,2.6677076375948827
+Cyprus,CYP,,,,5.75,True,High income,Countries,5.75 [4.12 – 7.79],4.12,7.79,2019.0,154.0,Cyprus,2,2.60154720893526
+Belgium,BEL,,,,5.77,True,High income,Countries,5.77 [4.6 – 7.11],4.6,7.11,2019.0,153.0,Belgium,2,2.2707128737988054
+Czechia,CZE,,,,5.95,True,High income,Countries,5.95 [4.3 – 8.02],4.3,8.02,2019.0,152.0,Czechia,2,2.6051554175893044
+Slovakia,SVK,,,,6.07,True,High income,Countries,6.07 [3.86 – 9.19],3.86,9.19,2019.0,151.0,Slovak Republic,2,2.7660733709732757
+Qatar,QAT,,,,7.27,True,High income,Countries,7.27 [5.1 – 9.94],5.1,9.94,2019.0,147.0,Qatar,2,2.3593457057599014
+Brunei Darussalam,BRN,,,,7.45,True,High income,Countries,7.45 [5.09 – 10.67],5.09,10.67,2019.0,145.0,Brunei Darussalam,2,2.408363750124705
+Hungary,HUN,,,,7.74,True,High income,Countries,7.74 [5.72 – 10.3],5.72,10.3,2019.0,141.0,Hungary,2,2.7156519197055875
+Bahamas,BHS,,,,7.75,True,High income,Countries,7.75 [5.34 – 10.71],5.34,10.71,2019.0,140.0,"Bahamas, The",2,2.5939103853216006
+Croatia,HRV,,,,7.95,True,High income,Countries,7.95 [5.58 – 10.93],5.58,10.93,2019.0,139.0,Croatia,2,2.2392716362546836
+Latvia,LVA,,,,8.05,True,High income,Countries,8.05 [5.58 – 11.35],5.58,11.35,2019.0,137.0,Latvia,2,2.62713714622773
+Lithuania,LTU,,,,8.14,True,High income,Countries,8.14 [5.83 – 11.04],5.83,11.04,2019.0,136.0,Lithuania,2,2.484601137496853
+Barbados,BRB,,,,8.17,True,High income,Countries,8.17 [5.3 – 11.52],5.3,11.52,2019.0,135.0,Barbados,2,2.493593253274031
+Portugal,PRT,,,,8.2,True,High income,Countries,8.2 [6.35 – 10.19],6.35,10.19,2019.0,134.0,Portugal,2,2.7955033891078243
+Greece,GRC,,,,8.31,True,High income,Countries,8.31 [6.69 – 10.14],6.69,10.14,2019.0,133.0,Greece,2,2.235455065066899
+Republic of Korea,KOR,,,,8.59,True,High income,Countries,8.59 [6.44 – 11.88],6.44,11.88,2019.0,132.0,"Korea, Rep.",2,2.7067440636092375
+United Arab Emirates,ARE,,,,8.91,True,High income,Countries,8.91 [7.65 – 10.12],7.65,10.12,2019.0,130.0,United Arab Emirates,2,2.502567702052823
+Trinidad and Tobago,TTO,,,,9.33,True,High income,Countries,9.33 [6.08 – 13.46],6.08,13.46,2019.0,128.0,Trinidad and Tobago,2,2.320513194075871
+Poland,POL,,,,9.38,True,High income,Countries,9.38 [7.34 – 11.97],7.34,11.97,2019.0,127.0,Poland,2,2.277833175053154
+New Zealand,NZL,,,,9.57,True,High income,Countries,9.57 [7.69 – 11.62],7.69,11.62,2019.0,126.0,New Zealand,2,2.704767893500855
+Venezuela (Bolivarian Republic of),VEN,,,,39.02,True,,Countries,39.02 [25.9 – 54.93],25.9,54.93,2019.0,3.0,"Venezuela, RB",2,2.7249622241735127

@@ -1,0 +1,20 @@
+ Mortalidade - Brasil
+Óbitos p/Ocorrênc por Região e Ano do Óbito
+Categoria CID-10: V50   Ocup caminhonete traum colis pedestre animal, V51   Ocup caminhonete traum colis veic pedal, V52   Ocup caminhon traum colis veic mot 2 3 rodas, V53   Ocup caminhon traum colis automov caminhon, V54   Ocup caminhon traum col veic transp pes onib, V55   Ocup caminhon traum colis trem veic ferrov, V56   Ocup caminhonete traum colis outr veic n-mot, V57   Ocup caminhonete traum colis obj fixo parado, V58   Ocup caminhonete traum acid transp s/colis, V59   Ocup caminhonete traum outr acid transp NE
+Período:2000-2022
+"Região";"2000";"2001";"2002";"2003";"2004";"2005";"2006";"2007";"2008";"2009";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"2018";"2019";"2020";"2021";"2022";"Total"
+"1 Região Norte";26;33;27;29;33;29;26;25;27;25;33;25;19;24;26;40;29;23;12;40;29;14;30;624
+"2 Região Nordeste";39;41;63;52;85;80;54;49;63;85;93;82;89;58;52;47;48;55;54;50;29;28;33;1329
+"3 Região Sudeste";39;50;34;66;41;66;82;99;66;54;72;104;88;88;67;72;78;72;80;72;55;69;86;1600
+"4 Região Sul";51;44;64;64;73;55;49;57;50;72;74;79;85;63;76;63;110;109;103;103;69;80;78;1671
+"5 Região Centro-Oeste";21;32;36;37;47;76;53;61;61;69;70;89;90;94;104;98;57;65;63;63;53;66;88;1493
+"Total";176;200;224;248;279;306;264;291;267;305;342;379;371;327;325;320;322;324;312;328;235;257;315;6717
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
+ No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
+ No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.
+ 

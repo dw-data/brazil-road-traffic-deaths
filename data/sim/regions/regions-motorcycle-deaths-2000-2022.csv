@@ -1,0 +1,21 @@
+ Mortalidade - Brasil
+Óbitos p/Ocorrênc por Região e Ano do Óbito
+Categoria CID-10: V20   Motociclista traum colis pedestre animal, V21   Motociclista traum colis veic pedal, V22   Motocicl traum colis veic motor 2 3 rodas, V23   Motocicl traum colis automov pickup caminhon, V24   Motocicl traum colis veic transp pesado onib, V25   Motociclista traum colis trem veic ferrov, V26   Motocicl traum colis outr veic nao-motoriz, V27   Motocicl traum colis objeto fixo parado, V28   Motociclista traum acid transp s/colis, V29   Motociclista traum outr acid transp e NE
+Período:2000-2022
+"Região";"2000";"2001";"2002";"2003";"2004";"2005";"2006";"2007";"2008";"2009";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"2018";"2019";"2020";"2021";"2022";"Total"
+"1 Região Norte";258;324;347;379;452;484;511;579;650;705;860;954;1083;1183;1143;1228;1276;1440;1235;1160;1285;1192;1366;20094
+"2 Região Nordeste";798;949;1268;1432;1584;1930;2113;2368;2507;2913;3685;4032;4820;4624;4929;4890;4984;4823;4728;4348;4586;4473;4700;77484
+"3 Região Sudeste";579;835;934;1135;1396;1649;2402;2679;3171;2989;3289;3489;3358;3216;3392;3203;2918;3064;2624;2772;3066;3274;2985;58419
+"4 Região Sul";504;623;691;825;1024;1160;1334;1505;1522;1550;1704;1765;1905;1641;1761;1469;1518;1603;1537;1606;1624;1612;1644;32127
+"5 Região Centro-Oeste";326;369;504;499;586;751;802;947;1048;1111;1287;1193;1314;1319;1379;1276;1340;1224;1311;1296;1292;1391;1363;23928
+"0 Ignorado/Exterior";-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1
+"Total";2465;3100;3744;4271;5042;5974;7162;8078;8898;9268;10825;11433;12480;11983;12604;12066;12036;12154;11435;11182;11853;11942;12058;212053
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Nota:
+ 
+ Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
+ No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
+ No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.
+ 
