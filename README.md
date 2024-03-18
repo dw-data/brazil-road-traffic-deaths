@@ -12,7 +12,7 @@ For the Brazilian road traffic deaths, we used data from the Ministry of Health,
 
 Data about the composition of the Brazilian fleet comes from the [Ministry of Transportation](https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/frota-de-veiculos-2023).
 
-For other countries, figures come from the [World Health Organization database](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/estimated-road-traffic-death-rate-(per-100-000-population).
+For other countries, figures come from the [World Health Organization database](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/estimated-road-traffic-death-rate-\(per-100-000-population).
 
 Income level and regional country classifcations come from the [World Bank](https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html).
 
