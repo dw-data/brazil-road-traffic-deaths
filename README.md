@@ -8,7 +8,7 @@ You can read the story in [Portuguese](#) and in [English](#).
 
 This story consists of an analysis of the historical evolution of Brazilian road traffic deaths, which are also compared to worldwide trends.
 
-For the Brazilian road traffic deaths, we used data from the Ministry of Health, taken from the [Datasus mortality monitoring platform](https://datasus.saude.gov.br/mortalidade-desde-1996-pela-cid-10). The [2000-2021 population estimates](https://datasus.saude.gov.br/populacao-residente) were also taken from Datasus.
+For the Brazilian road traffic deaths, we used data from the Ministry of Health, taken from the [Datasus mortality monitoring platform](https://datasus.saude.gov.br/mortalidade-desde-1996-pela-cid-10). The [2000-2021 population estimates](https://datasus.saude.gov.br/populacao-residente) were also taken from Datasus. For the 2022 population, we performed a simple linear regression with the 2000-2021 population estimates.
 
 Data about the composition of the Brazilian fleet comes from the [Ministry of Transportation](https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/frota-de-veiculos-2023).
 
