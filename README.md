@@ -2,7 +2,7 @@
 
 This repository countains the source code and data for the DW Data story about road traffic deaths in Brazil.
 
-You can read the story in [Portuguese](#) and in [English](#).
+You can read the story in [Portuguese](https://www.dw.com/pt-br/o-que-explica-a-nova-alta-de-mortes-no-tr%C3%A2nsito-do-brasil/a-68552779). There's also a [Spanish version of this story](https://www.dw.com/es/el-flagelo-de-los-accidentes-de-tr%C3%A1nsito-en-am%C3%A9rica-latina/a-68693381) that focus on Latin American data.
 
 ## Data sources
 
